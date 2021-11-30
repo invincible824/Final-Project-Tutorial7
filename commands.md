@@ -27,3 +27,7 @@ D
 mongo issuetracker scripts/init.mongo.js
 ```
 
+### Start the App
+```
+npm start
+```
